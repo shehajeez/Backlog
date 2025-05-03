@@ -23,4 +23,4 @@ Things are grouped loosely by category or purpose. Expect some chaos.
 
 ## NVIDIA GeForce Experience
 
-A functional version of NVIDIA GeForce Experience, available for download [here](https://files.shehajeez.xyz/api/download/5a790d1f-1be0-4bba-84c0-040380e4d493).
+A functional version of NVIDIA GeForce Experience, available for download [here](https://files.shehajeez.xyz/api/download/7a4cf10f-328a-4048-9218-bd63afaf0b96).
