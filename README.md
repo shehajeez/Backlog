@@ -23,8 +23,8 @@ Things are grouped loosely by category or purpose. Expect some chaos.
 
 ## NVIDIA GeForce Experience
 
-A functional version of NVIDIA GeForce Experience, available for download [here](https://files.shehajeez.xyz/api/download/7a4cf10f-328a-4048-9218-bd63afaf0b96).
+A functional version of NVIDIA GeForce Experience, available for download [here](https://void.shehajeez.xyz/api/download/7a4cf10f-328a-4048-9218-bd63afaf0b96).
 
 ## Legacy Minecraft Launcher Installer (.msi)
 
-The old Minecraft Launcher installer that does not require you to sign into the Microsoft Store, available for download [here](https://files.shehajeez.xyz/api/download/df13eaa8-2ae7-46c5-a209-bcc67a762150).
+The old Minecraft Launcher installer that does not require you to sign into the Microsoft Store (will make you install the version from the Microsoft Store for some reason making this archive useless but saved nonetheless, available for download [here](https://void.shehajeez.xyz/api/download/df13eaa8-2ae7-46c5-a209-bcc67a762150).
